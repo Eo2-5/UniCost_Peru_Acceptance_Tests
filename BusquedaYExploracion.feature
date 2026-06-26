@@ -37,6 +37,6 @@ Característica: Búsqueda y visualización centralizada de universidades
     Dado que una universidad no tiene todos los datos académicos registrados
     Cuando el estudiante accede a la opción "Ver detalles"
     Entonces el sistema muestra la información disponible
-    Y señala qué datos están pendientes de actualización.hola
+    Y señala qué datos están pendientes de actualización
 
     
