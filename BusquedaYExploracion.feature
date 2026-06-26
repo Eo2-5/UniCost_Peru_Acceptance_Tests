@@ -21,7 +21,7 @@ Característica: Búsqueda y visualización centralizada de universidades
     Y sugiere modificar los filtros de búsqueda.
 
   @HU-05
-  Escenario: Visualización de información principal de universidades
+  Escenario: Visualización de información principal de universidades 
     Dado que el estudiante realizó una búsqueda en la plataforma
     Cuando el sistema muestra la lista de resultados
     Entonces cada universidad debe mostrar nombre, ubicación, modalidad y costo aproximado.
@@ -37,6 +37,6 @@ Característica: Búsqueda y visualización centralizada de universidades
     Dado que una universidad no tiene todos los datos académicos registrados
     Cuando el estudiante accede a la opción "Ver detalles"
     Entonces el sistema muestra la información disponible
-    Y señala qué datos están pendientes de actualización.
+    Y señala qué datos están pendientes de actualización.hola
 
     
