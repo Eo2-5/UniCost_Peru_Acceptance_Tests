@@ -6,7 +6,7 @@ Característica: Cálculo y visualización del costo real por carrera
   @HU-08
   Escenario: Visualización del desglose de costos por carrera
     Dado que el estudiante selecciona una carrera en una universidad registrada
-    Cuando accede a la opción "Ver costos"
+    Cuando accede a la opción "Ver costos totales"
     Entonces el sistema muestra matrícula, pensiones, cargos administrativos y costo total estimado por ciclo.
 
   @HU-09
