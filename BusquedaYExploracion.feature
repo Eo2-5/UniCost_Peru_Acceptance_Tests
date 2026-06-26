@@ -38,3 +38,5 @@ Característica: Búsqueda y visualización centralizada de universidades
     Cuando el estudiante accede a la opción "Ver detalles"
     Entonces el sistema muestra la información disponible
     Y señala qué datos están pendientes de actualización.
+
+    
