@@ -1,4 +1,4 @@
-Característica: Búsqueda y visualización centralizada de universidades
+Característica: Búsqueda y visualización centralizada de universidades     
   Como estudiante de la aplicación
   quiero buscar y visualizar información académica de universidades
   para evitar revisar múltiples páginas web y comparar mejor mis opciones.
